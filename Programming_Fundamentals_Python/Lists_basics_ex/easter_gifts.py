@@ -16,7 +16,7 @@ while command != 'No Money':
             type_of_command = element_items[0]
             type_of_gift = element_items[1]
             number_index = int(element_items[2])
-            if number_index < len(gifts_list) - 1:
+            if 0 <= number_index < len(gifts_list) - 1:
                 gifts_list[number_index] = type_of_gift
     elif 'JustInCase ' in command:
         for element in command:
