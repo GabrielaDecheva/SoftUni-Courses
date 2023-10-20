@@ -53,7 +53,7 @@ while command[0] != 'course start':
         index = int(command[2])
         insert_func(lesson, index, initial_schedule)
     elif command[0] == 'Remove':
-        lesson = command [1]
+        lesson = command[1]
         remove_func(lesson, exercises, initial_schedule)
     elif command[0] == 'Swap':
         first_lesson = command[1]

@@ -37,7 +37,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rock-Paper-Scissors-game/rock_paper_scissors_game.py" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.softuni_course_planning">
+  <component name="RunManager" selected="Python.pokemon_don't_go">
     <configuration name="anonymous_threat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,9 +145,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pokemon_don't_go" />
         <item itemvalue="Python.softuni_course_planning" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.pokemon_don't_go" />
         <item itemvalue="Python.anonymous_threat" />
         <item itemvalue="Python.decipher_this" />
       </list>
@@ -171,6 +171,26 @@
           <url>file://$PROJECT_DIR$/Programming_Fundamentals_Python/Data_types_and_variables_ex/prime_number_checker.py</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming_Fundamentals_Python/List_advanced_ex/pokemon_don't_go.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming_Fundamentals_Python/List_advanced_ex/pokemon_don't_go.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming_Fundamentals_Python/List_advanced_ex/pokemon_don't_go.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming_Fundamentals_Python/List_advanced_ex/pokemon_don't_go.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
