@@ -14,6 +14,3 @@ while True:
 for student in students:
     if course_to_search.startswith(student['Course'][0:3]):
         print(f'{student["name"]} - {student["ID"]}')
-
-
-
