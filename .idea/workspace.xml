@@ -266,16 +266,6 @@
           <line>13</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Programming_Fundamentals_Python/Text_processing_ex/treasure_finder.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Programming_Fundamentals_Python/Text_processing_ex/treasure_finder.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
