@@ -1,0 +1,11 @@
+.html
+- - - five.html
+- - - two.html
+.py
+- - - four.py
+- - - one.py
+.txt
+- - - new_file.txt
+- - - report.txt
+- - - text_1.txt
+- - - three.txt
