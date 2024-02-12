@@ -4,16 +4,15 @@ def accommodate_new_pets(availability, pets_allowed_kg, *pets_info):
     first_print_line = ""
     second_print_line = "Accommodated pets:\n"
     for pet in pets_info:
-        if availability > 0:
-            if float(pet[1]) <= float(pets_allowed_kg):
-                if pet[0] not in accommodated_pets.keys():
-                    accommodated_pets[pet[0]] = 0
-                accommodated_pets[pet[0]] += 1
-                availability -= 1
-            else:
-                overweight += 1
-        else:
+        if availability <= 0:
             break
+        if float(pet[1]) <= float(pets_allowed_kg):
+            if pet[0] not in accommodated_pets.keys():
+                accommodated_pets[pet[0]] = 0
+            accommodated_pets[pet[0]] += 1
+            availability -= 1
+        else:
+            overweight += 1
 
     if sum(accommodated_pets.values()) + overweight == len(pets_info):
         first_print_line += f"All pets are accommodated! Available capacity: {availability}."
