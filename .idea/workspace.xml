@@ -40,12 +40,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_cinema.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_cinema.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "last_opened_file_path": "D:/Gabby/SoftUni/Python_Advanced_and_OOP"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.Reverse_strings">
     <configuration name="01_cinema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
